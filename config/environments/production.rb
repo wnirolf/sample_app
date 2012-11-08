@@ -72,11 +72,4 @@ SampleApp::Application.configure do
   config.force_ssl = true
   
 end
-  
-  
-  
-  
-  
-  
-  
-end
+ 
